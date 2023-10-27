@@ -1,0 +1,50 @@
+#myimgnl{
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  margin-top: 60px;  
+}
+#question{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+#cq{
+    font-size: 50px;
+    color: red;
+}
+#firstbutton{
+    margin-left: 350px;
+    margin-top: 60px;
+}
+#firstbtn{
+    background-color:  rgb(107, 107, 248);
+    border-radius: 30px;
+    height: 30px;
+    border: solid white;
+    color: rgb(218, 20, 20);
+    font-size: 20px;
+}
+#france{
+    margin-left: 360px;
+    margin-top: 10px;
+    border-radius: 30px;
+    color: blue;
+    font-size: 15px;
+    background-color: red;
+}
+#forstatus{
+    margin-left: 600px;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+#next{
+    text-decoration: none; 
+    border-radius: 50px;
+    border: solid white;
+    background-color: white;
+    margin-left: 1200px;
+    margin-top: 140px;
+}

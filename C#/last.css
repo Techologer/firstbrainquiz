@@ -1,0 +1,50 @@
+#lastguessing{
+    font-size: 50px;
+    color: peru;
+}
+#lastguessing2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#last2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#lastbutton{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#lastbutton1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+}
+#btn1{
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+}
+#btn{
+    border-radius: 30px;
+    background-color: orange;
+    color: red;
+}
+#laststatus{
+    margin-left: 600px;
+    font-size: 30px;
+}
+#tostart{
+    border: solid red;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}

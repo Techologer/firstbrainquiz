@@ -1,0 +1,44 @@
+#trying{
+    margin-left: 450px;
+}
+#try{
+    font-size: 50px;
+    color: purple;
+}
+#myimg{
+    margin-left: 530px;
+}
+#Spain{
+  background-color: yellow;
+  color: rgba(165, 42, 42, 0.726);
+  border-radius: 30px;
+  border: solid red;
+}
+#sicly{
+    background-color: blue;
+    color: white;
+    border-radius: 30px;
+    border: solid blue;
+}
+#mystatus{
+    margin-left: 600px;
+    font-size: 30px;
+}
+#next3{
+    text-decoration: none; 
+    border-radius: 50px;
+    border: solid white;
+    background-color: white;
+    margin-left: 1170px;
+    margin-top: 65px;
+}
+#number2{
+    font-size: 20px;
+}
+#forspain{
+  margin-left: 600px;
+}
+#forgrece{
+    margin-top: 200px;
+    margin-left: 600px;
+}

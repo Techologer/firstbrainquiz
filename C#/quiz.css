@@ -1,0 +1,29 @@
+#gcountry{
+    background-color: rgb(142, 142, 236);
+    border-radius: 30px;
+    height: 30px;
+    color: white;
+    text-decoration: none;
+}
+#Countrybutton{
+    margin-left: 50px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#flags{
+    margin-top: 20px;
+}
+#gflags{
+    margin-left: 50px;
+}
+#flagsbutton{
+    border-radius: 30px;
+    height: 30px;
+    color: white;
+    text-decoration: none;
+    width: 150px;
+    background-color: red;
+    color: black;
+}

@@ -1,0 +1,41 @@
+#the{
+    font-size: 50px;
+    color: orange;
+}
+#the1{
+    margin-left: 450px;
+}
+#myimg2{
+    margin-left: 500px;
+}
+#stepstatus{
+    margin-left: 550px;
+    font-size: 30px;
+}
+#Texas{
+     background-color: brown;
+     border-radius: 30px;   
+}
+#California{
+     background-color: orange;
+     border-radius: 30px;
+     color: red;
+}
+#tdiv{
+    margin-left: 600px;
+}
+#cdiv{
+    margin-top: 200px;
+    margin-left: 600px;
+}
+#number4{
+    font-size: 20px;
+}
+#next5{
+    text-decoration: none; 
+    border-radius: 50px;
+    border: solid white;
+    background-color: white;
+    margin-left: 1170px;
+    margin-top: 65px;
+}

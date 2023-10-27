@@ -1,0 +1,39 @@
+#secondcntry{
+    font-size: 50px;
+    color: rgb(112, 112, 247);
+}
+#div1{
+    margin-left: 450px;
+}
+#div2{
+    margin-left: 450px;
+    margin-top: 20px;
+}
+#statuslabel{
+    margin-left: 550px;
+    font-size: 30px;    
+}
+#Chicago{
+    background-color: red;
+    color: blue;
+    border-radius: 30px;
+    margin-left: 400px;
+}
+#England{
+    background-color: blue;
+    color: red;
+    border-radius: 30px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#next2{
+    text-decoration: none; 
+    border-radius: 50px;
+    border: solid white;
+    background-color: white;
+    margin-left: 1200px;
+    margin-top: 140px;
+}
+#number2{
+    font-size: 20px;
+}
